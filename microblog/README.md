@@ -1,6 +1,6 @@
-## Flask简介 
+## Flask简介
 
- 
+
 
 ## 安装
 
@@ -13,14 +13,13 @@
 > pip install flask-migrate
 
 
-
 ## 数据迁移
 
 每次更新数据库模块需要更新命令：
 
 ```python
  flask db migrate -m "posts table"
-    
+
 ```
 
 ```
