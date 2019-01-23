@@ -27,8 +27,6 @@ $ venv\Scripts\activate
 
 ## 其他安装
 
-> pip install Flask
->
 > pip install flask-wtf
 >
 > pip install flask-sqlalchemy
@@ -64,6 +62,16 @@ git add -u     --update          update tracked files    更新所有改变的�
 git add -A    --all                  add changes from all tracked and untracked files   提交已被修改和已被删除文件
 
 
+
+```
+$ git remote add origin git@github.com:caioo0/microblog.git
+```
+
+从现在起，只要本地作了提交，就可以通过命令：
+
+```
+$ git push origin master
+```
 
 ## 工具
 
