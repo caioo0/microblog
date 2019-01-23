@@ -32,6 +32,10 @@ $ venv\Scripts\activate
 > pip install flask-sqlalchemy
 >
 > pip install flask-migrate
+>
+> pip install flask-bootstrap
+
+
 
 
 ## 数据迁移

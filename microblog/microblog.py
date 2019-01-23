@@ -2,6 +2,8 @@
 # -*- coding: utf-8 -*-
 """
 Created on Sun Jan 20 10:53:24 2019
+step 1:venv\Scripts\activate
+step 2：flask run
 
 @author: caichengxuan
 """
