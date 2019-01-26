@@ -1,8 +1,6 @@
-## Flask简介
+## microblog 说明
 
 ## 本地运行
-
-
 
 1、 如果没有安装虚拟环境，首先安装 
 
@@ -24,6 +22,16 @@ $ venv\Scripts\activate
 >  pip install flask  # 安装命令
 
 >  flask run
+
+
+
+调试模式：
+
+```
+ $ export FLASK_DEBUG=1
+```
+
+如果你使用Microsoft Windows，记得将`export`替换成`set`。
 
 ## 其他安装
 
